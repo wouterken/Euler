@@ -1,0 +1,1 @@
+A place to hold project solutions to Project Euler tasks
